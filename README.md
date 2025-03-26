@@ -67,8 +67,3 @@ CadastroDeProdutos/
 - Melhorias no design da interface
 - Integração com API de terceiros
 
-## 📜 Licença
-Este projeto está licenciado sob a licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
-
-## 👨‍💻 Autor
-Desenvolvido por [João Victor de Souza Luduvice Porto](https://github.com/victor-luduvice). Conecte-se comigo no [LinkedIn](https://linkedin.com/joao-victor-luduvice).
